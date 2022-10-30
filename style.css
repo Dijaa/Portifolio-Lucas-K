@@ -42,3 +42,35 @@ ul li a {
     font-weight: 500;
     text-transform: uppercase;
 }
+#infogerais{
+    position: absolute;
+    left: 64px;
+    top: 127px;
+    
+}
+#infogerais h1 {
+    width: 317px;
+    height: 36px;
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #000000;
+}       
+#infogerais p {
+    
+position: inherit;
+width: 317px;
+height: 15px;
+left: 64px;
+top: 40px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+}
